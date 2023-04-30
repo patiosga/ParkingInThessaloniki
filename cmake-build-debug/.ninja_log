@@ -1,0 +1,7 @@
+# ninja log v5
+4	552	7037825098275348	CMakeFiles/ParkingInThess.dir/Car.cpp.obj	500e40084ffe1ffa
+7	489	7038721426590703	CMakeFiles/ParkingInThess.dir/parkingState.cpp.obj	9ca3b271237c2dcf
+8	585	7041432990157846	CMakeFiles/ParkingInThess.dir/main.cpp.obj	520ef570079c7c49
+585	706	7041432991315467	ParkingInThess.exe	518b5793854e6d7
+10	328	7045784878806458	build.ninja	44d7b0b5637caee9
+3	451	7041432988811836	CMakeFiles/ParkingInThess.dir/ParkingState.cpp.obj	6bf086aebbb2742f

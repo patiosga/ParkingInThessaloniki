@@ -1,0 +1,3 @@
+C:/Users/giorg/CLionProjects/ParkingInThess/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/giorg/CLionProjects/ParkingInThess/cmake-build-debug/CMakeFiles/ParkingInThess.dir
+C:/Users/giorg/CLionProjects/ParkingInThess/cmake-build-debug/CMakeFiles/edit_cache.dir
